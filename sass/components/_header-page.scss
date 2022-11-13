@@ -6,5 +6,5 @@
 .conteiner-header {
     display: flex;
     align-items: center;
-    @extend %conteiner;
+    @extend .conteiner;
 }
